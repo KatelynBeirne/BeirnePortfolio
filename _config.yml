@@ -1,13 +1,13 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+title: Katelyn Beirne
+logo: "/images/m3.png?raw=true" 
+description: > #
+Hello, I am a senior at Worcester Polytechnic Institute, pursuing a Bachelor of Science degree in Data Science.
+This page represents a portfolio of my works as a data scientist; including data visualizations, GIS driven apps, and coding projects. 
   <br><br>
-  Second description 
+  Currently looking for a full time position, particularly in the field of data science and/or GIS.  
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/katelyn-beirne-wpi/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
